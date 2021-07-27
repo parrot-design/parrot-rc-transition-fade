@@ -55,9 +55,10 @@
   "peerDependencies": {
     "react": ">= 16.8",
     "@parrotjs/classnames": ">= 2.0.2",
-    "@parrotjs/dom-utils": ">= 0.0.2",
-    "@parrotjs/react-hooks": ">= 0.1.2",
-    "@parrotjs/react-transition-group": ">= 1.0.9"
+    "@parrotjs/react-hooks": ">= 0.1.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@parrotjs/react-transition-group": ">= 1.0.9",
+    "@parrotjs/dom-utils": ">= 0.0.2"
+  }
 }
